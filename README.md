@@ -1,4 +1,12 @@
-# mern-tutorial
+# MERN Tutorial on YOUTube and it will be divided as follows:
+-## 
+### This readme notes is for my own use 
+-It will be broken down as follows 
+
+## Basic Express Server
+
+
+# mern-tutoria
 The first /initial commit was when a basic express server was set up
 Env variables was also setup
 Second Commit: Create the first route and also created the route file
